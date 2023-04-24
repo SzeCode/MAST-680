@@ -16,7 +16,7 @@ Final Project:  Dynamic Mode Decomposition (DMD) in Salient Region Detection.
 - Description: A project which explores the use of dynamic mode decomposition (DMD) to help identify the salient regions in a static image. This is an attempt to recreate the results of the work of Sikha et al (https://doi.org/10.1016/j.jocs.2017.07.007)
 
 
-Instructions
+Instructions on how to run the files.
 
 Assignment 1: 
 -Run the .m file directly in Octave or Matlab. The outputs are displayed when you run the program.
@@ -28,3 +28,6 @@ Assignment 3:
 -Run the .sln (Microsoft visual studios 2022) file in Main_forecast for predictions of the Lorenz system. The outputs are displayed when you run the program. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
 -Run the .sln (Microsoft visual studios 2022) file in Lobe_Transition for predictions of the time to transition from one lobe to another in the Lorenz system. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
 -Run the .sln (Microsoft visual studios 2022) file in LoadModel to load saved models generated from the Neural Networks.
+
+Final Project: 
+- Run the MAIN_DMD_SALIENT_EXTRACT.m file directly in Octave or Matlab. Specify manualy the image name to change image.
