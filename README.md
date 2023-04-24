@@ -19,15 +19,15 @@ Final Project:  Dynamic Mode Decomposition (DMD) in Salient Region Detection.
 Instructions on how to run the files.
 
 Assignment 1: 
--Run the .m file directly in Octave or Matlab. The outputs are displayed when you run the program.
+- Run the .m file directly in Octave or Matlab. The outputs are displayed when you run the program.
 
 Assignment 2: 
--Run all three of the centroid tracking files Assignment2_CamX.m, then run the main file PCA_SINDy_VersFinal.m. The outputs are displayed when you run the program.
+- Run all three of the centroid tracking files Assignment2_CamX.m, then run the main file PCA_SINDy_VersFinal.m. The outputs are displayed when you run the program.
 
 Assignment 3: 
--Run the .sln (Microsoft visual studios 2022) file in Main_forecast for predictions of the Lorenz system. The outputs are displayed when you run the program. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
--Run the .sln (Microsoft visual studios 2022) file in Lobe_Transition for predictions of the time to transition from one lobe to another in the Lorenz system. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
--Run the .sln (Microsoft visual studios 2022) file in LoadModel to load saved models generated from the Neural Networks.
+- Run the .sln (Microsoft visual studios 2022) file in Main_forecast for predictions of the Lorenz system. The outputs are displayed when you run the program. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
+- Run the .sln (Microsoft visual studios 2022) file in Lobe_Transition for predictions of the time to transition from one lobe to another in the Lorenz system. Alternatively, run the .m file using Octave or Matlab in the outputs folder.
+- Run the .sln (Microsoft visual studios 2022) file in LoadModel to load saved models generated from the Neural Networks.
 
 Final Project: 
 - Run the MAIN_DMD_SALIENT_EXTRACT.m file directly in Octave or Matlab. Specify manualy the image name to change image.
