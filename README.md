@@ -1,5 +1,5 @@
 # MAST-680
-A repository for the course MAST 680, Data Driven Methods in Dynamical Systems, from Concordia University in Montreal.
+A repository to show my work done for the course MAST 680, Data Driven Methods in Dynamical Systems, from Concordia University in Montreal taken in Winter 2023.
 
 The repository contains the files for:
 
