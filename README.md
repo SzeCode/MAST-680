@@ -1,5 +1,5 @@
 # MAST-680
-A repository to show my work done for the course MAST 680, Data Driven Methods in Dynamical Systems, from Concordia University in Montreal taken in Winter 2023.
+A repository to show my work done for the course MAST 680, Data Driven Methods in Dynamical Systems, from Concordia University in Montreal taken in Winter 2023. The course was taught by Jason Bramburger.
 
 The repository contains the files for:
 
@@ -31,3 +31,6 @@ Assignment 3:
 
 Final Project: 
 - Run the MAIN_DMD_SALIENT_EXTRACT.m file directly in Octave or Matlab. Specify manualy the image name to change image.
+
+
+Feedbacks from the professor is also included in each folder. They will be implemented in the near future.
